@@ -1,0 +1,11 @@
+C:\Users\Alejandro Perez G\Desktop\surfContest\surfContest\bin\Debug\netcoreapp2.1\surfContest.deps.json
+C:\Users\Alejandro Perez G\Desktop\surfContest\surfContest\bin\Debug\netcoreapp2.1\surfContest.runtimeconfig.json
+C:\Users\Alejandro Perez G\Desktop\surfContest\surfContest\bin\Debug\netcoreapp2.1\surfContest.runtimeconfig.dev.json
+C:\Users\Alejandro Perez G\Desktop\surfContest\surfContest\bin\Debug\netcoreapp2.1\surfContest.dll
+C:\Users\Alejandro Perez G\Desktop\surfContest\surfContest\bin\Debug\netcoreapp2.1\surfContest.pdb
+C:\Users\Alejandro Perez G\Desktop\surfContest\surfContest\obj\Debug\netcoreapp2.1\surfContest.csprojAssemblyReference.cache
+C:\Users\Alejandro Perez G\Desktop\surfContest\surfContest\obj\Debug\netcoreapp2.1\surfContest.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro Perez G\Desktop\surfContest\surfContest\obj\Debug\netcoreapp2.1\surfContest.AssemblyInfoInputs.cache
+C:\Users\Alejandro Perez G\Desktop\surfContest\surfContest\obj\Debug\netcoreapp2.1\surfContest.AssemblyInfo.cs
+C:\Users\Alejandro Perez G\Desktop\surfContest\surfContest\obj\Debug\netcoreapp2.1\surfContest.dll
+C:\Users\Alejandro Perez G\Desktop\surfContest\surfContest\obj\Debug\netcoreapp2.1\surfContest.pdb
